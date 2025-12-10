@@ -1,0 +1,7 @@
+path: /home/tazz/Documents/yolov8/data
+train: train\images
+val: validation\images
+
+nc: 8
+
+names: ["damaged-socket", "fire", "normal-outlet", "overloaded-socket", "person", "smoke", "spark", "wires"]
